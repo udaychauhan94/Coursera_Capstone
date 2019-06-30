@@ -6,7 +6,7 @@ Links to Notebooks:
 Week 5, Final Project:
 https://nbviewer.jupyter.org/gist/udaychauhan94/cd8e1b0e5d4eaefae7051e6b771a4f53
 
-Week 3, Neighborhood of Toronto:
+Week 3, Neighborhood in Toronto:
 https://nbviewer.jupyter.org/gist/udaychauhan94/5bac7e1cff851990fb2a66d764b6c4f4
 
 Start:
